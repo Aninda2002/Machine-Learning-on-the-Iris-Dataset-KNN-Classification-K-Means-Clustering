@@ -209,9 +209,7 @@ This project demonstrates:
 - Decision Tree Classification
 - Random Forest
 - Support Vector Machine (SVM)
-- PCA Visualization
 - Hierarchical Clustering
-- DBSCAN Clustering
 - Model Comparison Dashboard
 
 ---
